@@ -9,10 +9,10 @@ Este repositório foi criado para demonstrar como clonar um script Python presen
 Para executar o script Python, você pode usar o seguinte comando:
 
 ```bash
-python main.py
+python kestra_modulo3_aula3.py
 ```
 
-Este comando irá exibir a mensagem "TOPHWAKS A melhor comunidade de Automação e GENAI do Brasil" com uma arte ASCII de uma águia.
+Este comando irá exibir a mensagem "TOPHWAKS A melhor comunidade de Automação e GENAI do Brasil".
 
 ## Execução Local (Opcional)
 
@@ -30,5 +30,3 @@ Se você quiser rodar o script localmente, siga os passos abaixo:
     ```bash
     pip install -r requirements.txt
     ```
-
-    *Nota: Neste projeto, não há dependências externas, pois a arte da águia é gerada diretamente no script.*
